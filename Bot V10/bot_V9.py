@@ -13,7 +13,7 @@ import sqlite3
 import datetime
 
 #токен телеграм бота
-bot = telebot.TeleBot('6541675758:AAEQXEe2bSJKCtNeeu-FhntkrdSa-CpU_WU')
+bot = telebot.TeleBot('')#тут должен быть токен
 
 #номер пациента
 number = 0
